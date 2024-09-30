@@ -33,7 +33,7 @@ The dataset comprises various metrics related to online retail transactions. The
 
 ## 📁 File Descriptions
 - 📓 **`Customer_Segmentation_and_Recommendation_System.ipynb`**: Jupyter notebook containing data exploration, visualization, modeling, and evaluation code.
-- 📁 **`Online_Retail.csv`**: CSV file containing the online retail dataset.
+- 📁 **`data 2.csv`**: CSV file containing the customer details dataset.
 - 📘 **`README.md`**: This file, providing an overview of the project.
 
 ## 🚀 Instructions for Local Execution
@@ -43,5 +43,4 @@ The dataset comprises various metrics related to online retail transactions. The
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
 
 ## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
-- 🌐 **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook and download the dataset from [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
