@@ -44,3 +44,8 @@ The dataset comprises various metrics related to online retail transactions. The
 
 ## 🔗 Additional Resources
 - 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook and download the dataset from [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
+
+##  👩‍💻 Author
+Gudepu Rakshitha Reddy
+
+📧 rakshithareddy1985@gmail.com
